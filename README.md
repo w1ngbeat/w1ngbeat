@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](./profile/stats.svg)
+[//]: # (![Stats]&#40;./profile/stats.svg&#41;)
 ![Top Languages](./profile/top-langs.svg)
